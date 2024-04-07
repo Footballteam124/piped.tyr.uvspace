@@ -20,12 +20,12 @@
         "qrcode": "^1.5.3",
         "shaka-player": "4.7.11",
         "vue": "3.4.21",
-        "vue-i18n": "9.10.2",
+        "vue-i18n": "9.11.0",
         "vue-router": "4.3.0"
     },
     "devDependencies": {
-        "@iconify-json/fa6-brands": "1.1.18",
-        "@iconify-json/fa6-solid": "1.1.20",
+        "@iconify-json/fa6-brands": "1.1.19",
+        "@iconify-json/fa6-solid": "1.1.21",
         "@intlify/unplugin-vue-i18n": "4.0.0",
         "@unocss/eslint-config": "0.58.9",
         "@unocss/preset-icons": "0.58.9",
@@ -44,9 +44,9 @@
         "lightningcss": "1.24.1",
         "prettier": "3.2.5",
         "unocss": "0.58.9",
-        "vite": "5.2.7",
+        "vite": "5.2.8",
         "vite-plugin-eslint": "1.8.1",
-        "vite-plugin-pwa": "0.19.7",
+        "vite-plugin-pwa": "0.19.8",
         "workbox-window": "7.0.0"
     },
     "browserslist": [
